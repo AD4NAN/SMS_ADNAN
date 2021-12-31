@@ -1,5 +1,5 @@
 #colour
-#The Tool Admin : Afran Noman 
+#The Tool Admin : ADNAN ISLAM
 
 import requests
 
@@ -79,7 +79,7 @@ line2=("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
 dtls=(red+"\t\t Created By: ADNAN ISLAM ")
 
-note=(cyan+"\n\n ============================= \n Author/Modifier : Adnan Islam\n =============================\n Facebook : www.facebook.com/Adnan.Islam.0.2\n=============================\n Creator : Hridoy Ahmed Nirob  \n=============================\n GITHUB : https://github.com/AD4NAN\n=============================\n FB Page: www.facebook.com/Adnan.Islam.0.2")
+note=(cyan+"\n\n ============================= \n Author/Modifier : Adnan Islam\n =============================\n Facebook : www.facebook.com/Adnan.Islam.0.2\n=============================\n Creator : ADNAN ISLAM       \n=============================\n GITHUB : https://github.com/AD4NAN\n=============================\n FB Page: www.facebook.com/Adnan.Islam.0.2")
 
 
 print(logo)
