@@ -1,4 +1,6 @@
 #intarface
+#open code 
+#when use it please give credit
 import os
 os.system("clear")
 import smtplib
